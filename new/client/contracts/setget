@@ -1,0 +1,19 @@
+Server: {"type":"From:A913eFF3367c1a48E307Df1D23aAfF44AA8646e8","message":{"event":"Transfer","data":{"from":"0x0000000000000000000000000000000000000000","to":"0x5b38da6a701c568545dcfcb03fcb875f56beddc4","value":54384771192798199549887}}}
+
+Server: {"type":"From:A913eFF3367c1a48E307Df1D23aAfF44AA8646e8","message":{"event":"Transfer","data":{"from":"0x0000000000000000000000000000000000000000","to":"0x315cb987dc3295125dae36a9ec6b076618d0b9ba","value":543847711927981995498874}}}
+
+Server: {"type":"From:A913eFF3367c1a48E307Df1D23aAfF44AA8646e8","message":{"event":"Transfer","data":{"from":"0x315cb987dc3295125dae36a9ec6b076618d0b9ba","to":"0x0ee5f1926c29b6e02d151a31a31cabbf15001b32","value":543847711927981980000000}}}
+
+Server: {"type":"From:A913eFF3367c1a48E307Df1D23aAfF44AA8646e8","message":{"event":"Transfer","data":{"from":"0x0ee5f1926c29b6e02d151a31a31cabbf15001b32","to":"0x95d5e615bfad47b785723a1dccd1ee7a4e8c7580","value":543847711927981980000000}}}
+
+Server: {"type":"From:8E6143A15C2846471e695Fa38dD26ABB0276E172","message":{"event":"Transfer","data":{"from":"0x95d5e615bfad47b785723a1dccd1ee7a4e8c7580","to":"0x0ee5f1926c29b6e02d151a31a31cabbf15001b32","value":100000000000000000000}}}
+
+Server: {"type":"From:8E6143A15C2846471e695Fa38dD26ABB0276E172","message":{"event":"Approval","data":{"owner":"0x95d5e615bfad47b785723a1dccd1ee7a4e8c7580","spender":"0x0ee5f1926c29b6e02d151a31a31cabbf15001b32","value":999999999999999999999999999999999999500000000000000000000}}}
+
+Server: {"type":"From:8E6143A15C2846471e695Fa38dD26ABB0276E172","message":{"event":"Transfer","data":{"from":"0x95d5e615bfad47b785723a1dccd1ee7a4e8c7580","to":"0x0ee5f1926c29b6e02d151a31a31cabbf15001b32","value":100000000000000000000}}}
+
+Server: {"type":"From:8E6143A15C2846471e695Fa38dD26ABB0276E172","message":{"event":"Approval","data":{"owner":"0x95d5e615bfad47b785723a1dccd1ee7a4e8c7580","spender":"0x0ee5f1926c29b6e02d151a31a31cabbf15001b32","value":999999999999999999999999999999999999500000000000000000000}}}
+
+Server: {"type":"From:0EE5f1926C29B6e02d151A31A31cabBF15001b32","message":{"event":"UpdatePool","data":{"accCakePerShare":2322879421288082800000,"lastRewardBlock":1297650,"lpSupply":400000000000000000000,"pid":1}}}
+
+Server: {"type":"From:0EE5f1926C29B6e02d151A31A31cabBF15001b32","message":{"event":"Deposit","data":{"amount":100000000000000000000,"pid":1,"user":"0x95d5e615bfad47b785723a1dccd1ee7a4e8c7580"}}}

@@ -1,0 +1,22 @@
+{
+    "version": "0.0.0.1",
+    "address": "5e65ce8502fb2a85f061b3fd8256d61cc8c9d440",
+    "ip": "127.0.0.1",
+    "port": 5001,
+    "node_type": "Client",
+    "transaction_per_hash": 10,
+    "hash_per_second": 10,
+    "tick_per_second": 10,
+    "tick_per_slot": 25,
+    "transfer_fee": 1,
+    "guarantee_amount": 100,
+    "parent_connection": {
+        "address": "cf7c34ff87c4b2dcb3cf50cfbca60998870a41a3",
+        "ip": "61.28.238.235",
+        "port": 3011,
+        "type": "Node"
+    },
+    "account_db_path": "./db/account",
+    "number_of_validate_poh_routine": 1,
+    "secret_key": "4aac41b5cb665b93e031faa751944b1f14d77cb17322403cba8df1d6e4541a4d"
+}
